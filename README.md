@@ -7,3 +7,4 @@ Zhao, L. (2019). Traffic Flow Forecasting [Dataset]. UCI Machine Learning Reposi
 the script for visualization was created with the help of ChatGPT
 https://chatgpt.com/share/686edda2-4b60-8003-b28e-fa818770d32a
 
+![image](https://github.com/user-attachments/assets/e46be352-7b8f-4cb6-b4cb-134616aba311)
